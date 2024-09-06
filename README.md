@@ -18,4 +18,4 @@ Feel free to leave a message [over here](https://github.com/codemasher/codemashe
 [packagist-badge]: https://img.shields.io/badge/packagist-chillerlan-%23F28D1A?logo=packagist
 [packagist-url]: https://packagist.org/packages/chillerlan/
 [npm-badge]: https://img.shields.io/badge/npm-chillerlan-%23cb3837?logo=npm
-[npm-url]: https://www.npmjs.com/package/@chillerlan/
+[npm-url]: https://www.npmjs.com/org/chillerlan
